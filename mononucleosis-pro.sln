@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30330.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mononucleosis-pro", "mononucleosis-pro.csproj", "{504B5D1E-BEE0-40D2-9CF6-138F4F5CBDA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{504B5D1E-BEE0-40D2-9CF6-138F4F5CBDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{504B5D1E-BEE0-40D2-9CF6-138F4F5CBDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{504B5D1E-BEE0-40D2-9CF6-138F4F5CBDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{504B5D1E-BEE0-40D2-9CF6-138F4F5CBDA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B54B56FE-205A-4DC4-B2C3-8F7112374967}
+	EndGlobalSection
+EndGlobal
