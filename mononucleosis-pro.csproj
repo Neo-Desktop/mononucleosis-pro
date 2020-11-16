@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>mononucleosis_pro</RootNamespace>
+    <UseWindowsForms>true</UseWindowsForms>
+    <StartupObject>mononucleosis_pro.Program</StartupObject>
+    <ApplicationIcon>img\icon.ico</ApplicationIcon>
+  </PropertyGroup>
+
+</Project>
